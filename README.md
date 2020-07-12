@@ -26,5 +26,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 :earth_americas: [Personal Web](https://jmbargueno.com)
+
 :computer: [Linkedin](https://www.linkedin.com/in/jmbargueno/)
+
 :email: [Mail me](mailto:contact@jmbargueno.com)
