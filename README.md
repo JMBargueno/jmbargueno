@@ -1,4 +1,4 @@
-![jmbargueno.com](https://github.com/JMBargueno/jmbargueno/raw/master/assets/weblogodarkkk.png)
+[![jmbargueno.com](https://github.com/JMBargueno/jmbargueno/raw/master/assets/weblogodarkkk.png)](https://jmbargueno.com)
 
 
 ### Hi! Im Jose Manuel
@@ -30,3 +30,5 @@ Here are some ideas to get you started:
 :computer: [Linkedin](https://www.linkedin.com/in/jmbargueno/)
 
 :email: [Mail me](mailto:contact@jmbargueno.com)
+
+[![ForTheBadge built-with-love](http://ForTheBadge.com/images/badges/built-with-love.svg)](https://jmbargueno.com)
