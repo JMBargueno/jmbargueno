@@ -1,5 +1,7 @@
 ### Hi! Im Jose Manuel
 
+![jmbargueno.com](https://jmbargueno.com/wp-content/uploads/2020/05/weblogowhite.png)
+
 <!--
 **JMBargueno/jmbargueno** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
