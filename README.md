@@ -1,4 +1,4 @@
-![jmbargueno.com](assets/weblogodark.png)
+![jmbargueno.com](https://github.com/JMBargueno/jmbargueno/raw/master/assets/weblogodark.png)
 ### Hi! Im Jose Manuel
 <!--
 **JMBargueno/jmbargueno** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
