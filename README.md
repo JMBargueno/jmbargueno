@@ -11,13 +11,9 @@ I have most experience on the MEAN Stack, developing APIs and clients but I have
 - 🔍 I am looking to work in MEAN Stack or backend with java or kotlin but I am open to any other challenge
 
 <br/>
-<br/>
-<br/>   
 
 >Nothing happens until something moves. -Albert Einstein
 
-<br/>
-<br/>
 <br/>
 
 :earth_americas: [Personal Web](https://jmbargueno.com)
