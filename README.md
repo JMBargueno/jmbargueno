@@ -7,8 +7,8 @@ Im a rookie developer who loves the backend. I have recently finished my degree 
 
 I have most experience on the MEAN Stack, developing APIs and clients but I have also used java and kotlin for backend and Android´s apps.
 
-- 🎓 I'm currently learning React and I want to start with Flutter. 
-- 🔍 I am looking to work in MEAN Stack or backend with java or kotlin but I am open to any other challenge
+- 💻 I'm currently working in MEAN stack. 
+- 🔍 I am looking to work in MEAN Stack but I am open to any other challenge
 
 <br/>
 
