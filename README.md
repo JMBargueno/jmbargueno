@@ -1,20 +1,19 @@
 [![jmbargueno.com](https://github.com/JMBargueno/jmbargueno/raw/master/assets/weblogodarkkk.png)](https://jmbargueno.com)
 
 
-### Hi! Im Jose Manuel
+### HELLO! 📢
+I'm José Manuel and I'm a javascript developer, although if an interesting and disruptive project that attracts me from another technology, I'm sure I'll go for it!
 
-Im a rookie developer who loves the backend. I have recently finished my degree which has an EQF 5 level.
+### ⌛ MY EXPERIENCE
+My professional experience as a programmer began in the middle of the 2020 quarantine, when I couldn't find anything and the opportunity arose to participate in a very interesting project for the analysis of industrial processes. Since then I have gone through different sectors and platforms such as a platform focused on food science, an application that processed data through machine learning or web applications of a telecommunications giant like where I am now.
 
-I have most experience on the MEAN Stack, developing APIs and clients but I have also used java and kotlin for backend and Android´s apps.
+### ✨ MY LIKES
+Mainly I like to develop everything that is related to nodejs and javascript (and I prefer the backend), where I have more experience is in the stack mean but being a non-conformist person with his knowledge, I always want to be learning technologies that are new to me. For example, I am now behind react, react native and nestjs.
 
-- 💻 I'm currently working in MEAN stack. 
-- 🔍 I am looking to work in MEAN Stack but I am open to any other challenge
+### 📖 SUMMARY
+To summarize, I love to develop from 0 to the end, take an idea, make it mine and sow it until I can harvest it.
 
-<br/>
-
->Nothing happens until something moves. -Albert Einstein
-
-<br/>
+### 🔗 WOULD YOU BE INTERESTED IN TALKING TO ME?
 
 :earth_americas: [Personal Web](https://jmbargueno.com)
 
