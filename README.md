@@ -1,4 +1,5 @@
-[![jmbargueno.com](https://github.com/JMBargueno/jmbargueno/raw/master/assets/weblogodarkkk.png)](https://jmbargueno.com)
+[![It works on my machine](https://github.com/JMBargueno/jmbargueno/raw/master/assets/banner-it-works-on-my-machine.jpg)](https://jmbargueno.com)
+
 
 ### Hi there! 👋
 I'm José Manuel, a Tech Lead & Senior Developer with 5+ years of experience. My home is Node.js and TypeScript in the backend, but I move equally well in Angular front-ends — and I'm not tied to any single technology: if a problem is worth solving in something else, I'll pick it up.
